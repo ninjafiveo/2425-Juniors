@@ -15,3 +15,34 @@ print(user_age)
 # floats --> These are numbers with decimal points. 97.6, 101.2
 patient_temp = 97.6
 print(patient_temp)
+
+# boolean --> True and/or False
+w = 100
+x = 5
+y = 10
+z = 10
+
+print(x == y)
+print(z == y)
+if (x == y):
+    print(f"If this prints it's true. x: {x} equals y: {y}")
+if (y == z):
+    print(f"If this prints it's true. y: {y} equals z: {z}")
+
+#Additional Boolean Operators
+# == equal to 
+# >= greater than or equal to 
+# <= less than or equal to
+# < less than
+# > greater than
+# != not equal to
+    
+print(w == y)
+print(w <= y)
+print(w >= y)
+print(w < y)
+print(w > y)
+print(w != y)
+    
+
+
