@@ -42,5 +42,7 @@ def approach_vendor():
         print("Player vanishes like Ninja the Fortnite player streaming on Mixer. To never be heard of again like an off brand Sonic your mom says you have at home.")
     else:
         print("I'm sorry I don't speaka that language, do you have a Vegemite Sandwich?")
+        print("Vender provide sandwich. You eat it with a man from Brussels.")
+        # https://www.youtube.com/watch?v=XfR9iY5y94s
 
 approach_vendor()
